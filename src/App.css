@@ -1,0 +1,6 @@
+/* /src/App.css */
+.container {
+  max-width: 400px; /* Adjusted width for better usability */
+  margin: 20px auto; /* Center horizontally with a margin */
+ /* Subtle shadow for depth */
+}
